@@ -1,0 +1,38 @@
+.thermal-check-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+  height: 100vh;
+  background-image: url('/Users/archismanbasu/Documents/yoga/public/images/image-from-rawpixel-id-11529983-jpeg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #000;
+}
+
+.thermal-check-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.thermal-check-content h1 {
+  margin-bottom: 20px;
+}
+
+.thermal-check-content .btn {
+  margin-top: 20px;
+}
+
+.thermal-check-window {
+  width: 300px;
+  height: 300px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  color: #000;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

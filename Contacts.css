@@ -1,0 +1,26 @@
+.contacts {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('/Users/archismanbasu/Documents/yoga/public/images/image-from-rawpixel-id-11529983-jpeg.jpg') center center/cover no-repeat;
+    color: white;
+  }
+  
+  .contacts-content {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6); /* Optional: Adds a slight dark overlay for better text readability */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .contacts-content h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contacts-content p {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
